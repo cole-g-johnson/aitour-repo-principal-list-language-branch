@@ -93,3 +93,7 @@ Each individual session and workshop below is hyperlinked to it's own GitHub rep
 - #### 	[(TECH) BRK471: Leverage AI for infrastructure management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-managaement)
 - #### 	[(TECH) BRK472: Preparing for your organization's AI workloads​](https://github.com/microsoft/aitour-preparing-for-ai-workloads)
 - #### 	[(TECH) BRK473: Optimizing your AI costs​](https://github.com/microsoft/aitour-opimizing-your-ai-costs)
+
+
+## Content Translations
+[![Generic badge](https://img.shields.io/badge/Translations-English-blue.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/tree/english) [![Generic badge](https://img.shields.io/badge/Translations-Espanol-red.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/tree/espanol) [![Generic badge](https://img.shields.io/badge/Translations-Portuguese-green.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/tree/portuguese)
