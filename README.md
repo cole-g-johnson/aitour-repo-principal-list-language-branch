@@ -2,7 +2,7 @@
 <img src="https://github.com/microsoft/aitour-repo-principal-list/blob/main/assets/email-banners_MSAITour24_v5.png" alt="decorative banner" width="1200"/>
 </p>
 
-# Microsoft AI Tour
+# Microsoft AI Tour - Espanol
 
 The Microsoft AI Tour kicks off on September 24, 2024, in Mexico City and spans over 60 cities around the world, from Sao Paulo to Johannesburg, Mumbai to Sydney, Seoul to Berlin, and many more. 
 
