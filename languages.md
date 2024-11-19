@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/blob/main/assets/mexico-city-banner.png" alt="decorative banner" width="1200"/>
+</p>
+
 ## Espanol Content
 
 | Track      | Session      | Speaker      | Slides      | GitHub      |
