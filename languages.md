@@ -3,7 +3,6 @@
 | Track      | Session      | Speaker      | Slides      | GitHub      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | AI Safety and Security | Securing AI applications on Azure | [Pamela Fox](https://github.com/pamelafox) | [Download PowerPoint](https://aka.ms/AAs7mfz) | [Repo](https://github.com/microsoft/aitour-securing-ai-apps-on-azure) |
-| AI Safety and Security | Data security for AI | Not Presented | [Download PowerPoint](https://aka.ms/AAs7mfy) | [Repo](https://github.com/microsoft/aitour-data-security-for-ai) |
 | Copilot Extensibility | Essential prompting for GitHub Copilot in VS Code | [Abril Ureña](https://github.com/abrilurena) | [Download PowerPoint](https://aka.ms/AAs7etu) | [Repo](https://github.com/microsoft/aitour-Essential-Prompting-for-GitHub-Copilot-in-VS-Code) |
 | Introduction: AI Tooling and Foundation | The foundation of generative AI in Azure | [El Bruno](https://github.com/elbruno) | [Download PowerPoint](https://aka.ms/AAs7u27) | [Repo](https://github.com/microsoft/aitour-generative-ai-in-azure) |
 | Introduction: AI Tooling and Foundation | From concept to creation with Azure AI Studio | [Abril Ureña](https://github.com/abrilurena) | [Download PowerPoint](https://aka.ms/AAs7u28) | [Repo](https://github.com/microsoft/aitour-concept-to-creation-ai-studio) |
