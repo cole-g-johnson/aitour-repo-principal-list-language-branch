@@ -9,7 +9,7 @@ The Microsoft AI Tour kicks off on September 24, 2024, in Mexico City and spans 
 This file contains resources for all localized language content presented at The Microsoft AI Tour.
 
 ## Breakout Sessions and Workshops
-[![Generic badge](https://img.shields.io/badge/Translations-Espanol-red.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/tree/espanol) [![Generic badge](https://img.shields.io/badge/Translations-Portuguese-green.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/tree/portuguese)
+[![Generic badge](https://img.shields.io/badge/Translations-Español-red.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/blob/main/multi-language.md#espa%C3%B1ol) [![Generic badge](https://img.shields.io/badge/Translations-Português-green.svg)](https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/edit/main/multi-language.md#portugu%C3%AAs)
 ### Español
 
 | Track      | Session      | Speaker      | Slides      | GitHub      |
