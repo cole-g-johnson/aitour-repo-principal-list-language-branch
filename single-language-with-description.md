@@ -1,8 +1,13 @@
 <p align="center">
-<img src="https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/blob/main/assets/mexico-city-banner.png" alt="decorative banner" width="1200"/>
+<img src="https://github.com/microsoft/aitour-repo-principal-list/blob/main/assets/email-banners_MSAITour24_v5.png" alt="decorative banner" width="1200"/>
 </p>
 
-### Este evento gratuito de un día lo pondrá en contacto con líderes de la industria, expertos de Microsoft y sus socios que le mostrarán cómo crear soluciones de inteligencia artificial para que pueda reinventar su negocio.
+# Microsoft AI Tour
+
+Este evento gratuito de un día lo pondrá en contacto con líderes de la industria, expertos de Microsoft y sus socios que le mostrarán cómo crear soluciones de inteligencia artificial para que pueda reinventar su negocio.
+
+## Breakout Sessions and Workshops
+
 
 | Track      | Session      | Speaker      | Slides      | GitHub      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
