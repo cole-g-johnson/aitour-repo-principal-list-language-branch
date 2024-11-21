@@ -2,8 +2,6 @@
 <img src="https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/blob/main/assets/mexico-city-banner.png" alt="decorative banner" width="1200"/>
 </p>
 
-## Espanol Content
-
 | Track      | Session      | Speaker      | Slides      | GitHub      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [AI Safety and Security](https://github.com/microsoft/aitour-repo-principal-list#ai-safety-and-security) | Securing AI applications on Azure | [Pamela Fox](https://github.com/pamelafox) | [Download PowerPoint](https://aka.ms/AAs7mfz) | [Repo](https://github.com/microsoft/aitour-securing-ai-apps-on-azure) |
