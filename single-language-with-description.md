@@ -1,6 +1,8 @@
-p align="center">
+<p align="center">
 <img src="https://github.com/cole-g-johnson/aitour-repo-principal-list-language-branch/blob/main/assets/mexico-city-banner.png" alt="decorative banner" width="1200"/>
 </p>
+
+### Este evento gratuito de un día lo pondrá en contacto con líderes de la industria, expertos de Microsoft y sus socios que le mostrarán cómo crear soluciones de inteligencia artificial para que pueda reinventar su negocio.
 
 | Track      | Session      | Speaker      | Slides      | GitHub      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
