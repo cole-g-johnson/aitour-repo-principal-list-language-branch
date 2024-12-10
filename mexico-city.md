@@ -2,7 +2,7 @@
 <img src="https://github.com/microsoft/aitour-repo-principal-list/blob/main/assets/email-banners_MSAITour24_v5.png" alt="decorative banner" width="1200"/>
 </p>
 
-# Microsoft AI Tour
+# Microsoft AI Tour - Mexico City
 
 Este evento gratuito de un día lo pondrá en contacto con líderes de la industria, expertos de Microsoft y sus socios que le mostrarán cómo crear soluciones de inteligencia artificial para que pueda reinventar su negocio.
 
